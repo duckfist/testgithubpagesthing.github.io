@@ -8,4 +8,4 @@ And there we go.
 ---------
 Ok bye
 
-[subfolder/test.md](Link)
+[Link](subfolder/test.md)
